@@ -7,4 +7,4 @@ int main()
     int c=a+b;
     cout<<"Addition is = "<<c<<" ";
     return 0;
-}git 
+}
