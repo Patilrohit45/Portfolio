@@ -6,5 +6,5 @@ int main()
     int b=25;
     int c=a+b;
     cout<<"Addition is = "<<c<<" ";
-    return 0;
+    return 0; 
 }
