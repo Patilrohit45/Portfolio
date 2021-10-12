@@ -5,6 +5,6 @@ int main()
     int a=25;
     int b=25;
     int c=a+b;
-    cout<<c<<" ";
+    cout<<"Addition is = "<<c<<" ";
     return 0;
-}
+}git 
